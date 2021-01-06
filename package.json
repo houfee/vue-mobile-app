@@ -15,7 +15,7 @@
   "homepage": "https://houfee.github.io/vue-app",
   "dependencies": {
     "alloyfinger": "^0.1.16",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "cssnano-preset-advanced": "^4.0.7",
     "html2canvas": "^1.0.0-rc.4",
